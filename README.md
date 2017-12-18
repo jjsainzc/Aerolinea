@@ -11,7 +11,8 @@ Su aplicación debe mostrar las siguientes alternativas:
 1 para Primera Clase
 2 para Clase Económica
 
-Si el usuario escribe 1, su aplicación debe asignarle un asiento en la sección de primera clase (asientos 1A al 5F, es decir, filas 1 ala 5, columnas A, B, C, D, E, y F) - ver figura nro.1. - Si el usuario escribe 2, su aplicación debe asignarle un asiento en la sección económica (asientos 6A al 15F, es decir, filas 6 a la 15, columnas A, B, C, D E, y F), en ambos casos - 1ra.Clase o Económica - se debe preguntar al usuario si desea su asiento con vista hacia la ventana (filas A o F) o en pasillos (filas B, C, Do E), en el caso de haber disponibilidad.
+Si el usuario escribe 1, su aplicación debe asignarle un asiento en la sección de primera clase (asientos 1A al 5F, es decir, filas 1 ala 5, columnas A, B, C, D, E, y F).
+Si el usuario escribe 2, su aplicación debe asignarle un asiento en la sección económica (asientos 6A al 15F, es decir, filas 6 a la 15, columnas A, B, C, D E, y F), en ambos casos - 1ra.Clase o Económica - se debe preguntar al usuario si desea su asiento con vista hacia la ventana (filas A o F) o en pasillos (filas B, C, Do E), en el caso de haber disponibilidad.
 
 Su aplicación nunca deberá asignar un asiento que ya haya sido asignado.
 
