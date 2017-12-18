@@ -1,5 +1,6 @@
 # Aerolinea
 Deber de Java
+(uso de entrada de datos por consola, NO Scanner)
 
 Sistema de reservaciones de una aerolínea
 
