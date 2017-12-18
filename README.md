@@ -30,4 +30,4 @@ atención/servicio (mayor edad > 80 años, y menor edad < 10 años).
 ATENCION: Usualmente muchos docentes exigen a los estudiantes usar listas o matrices para el guardado de los datos, 
 en este proyecto NO USAR ni arreglos ni matrices, primero porque el tratamiento es dinamico, por lo tanto hay que usar colecciones que hereden de Collection, tampoco tiene sentido usar matrices ya que conlleva a la creacion y manipulacion de objetos.
 
-Si se quiere emplear arreglos para cualquier manipulacion, éstos deben usarse cuando ya las colecciones estén completamente llenas.
+Si se quiere emplear arreglos para cualquier manipulacion, éstos deben usarse cuando ya las colecciones estén completamente llenas y hacer la conversion correspondiente.
