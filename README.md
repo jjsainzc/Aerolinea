@@ -24,14 +24,13 @@ Si la persona acepta, haga la asignación de asiento apropiada. Si no acepta, im
 Adicional Ud. debe guardar la identificacion, nombres, fecha de nacimiento y número de asiento asignado a este pasajero en listas, segun el avion se vaya llenando.
 
 La implementación de esta información, nos permitirá conocer las siguientes estadísticas importantes para la aerolínea:
+
 • Cuantas personas de la tercera edad viajan en el avión (personas mayores de 60 años y menores de 80).
 • Cuantas personas ocupan asientos de ventana y cuantas de pasillo.
-• Cuáles son las personas de mayor edad y de menor edad, que viaja en el avión, para prestarles especial 
-atención/servicio (mayor edad > 80 años, y menor edad < 10 años).
+• Cuáles son las personas de mayor edad y de menor edad, que viaja en el avión, para prestarles especial atención/servicio (mayor edad > 80 años, y menor edad < 10 años).
 
 Hay muchas soluciones, este ejemplo es solo una de ellas. 
 
-ATENCION: Usualmente muchos docentes exigen a los estudiantes usar listas o matrices para el guardado de los datos, 
-en este proyecto NO USAR ni arreglos ni matrices, primero porque el tratamiento es dinamico, por lo tanto hay que usar colecciones que hereden de Collection, tampoco tiene sentido usar matrices ya que conlleva a la creacion y manipulacion de objetos.
+ATENCION: Usualmente muchos docentes exigen a los estudiantes usar listas o matrices para el guardado de los datos, en este proyecto NO USAR ni arreglos ni matrices, primero porque el tratamiento es dinamico, por lo tanto hay que usar colecciones que hereden de Collection, tampoco tiene sentido usar matrices ya que conlleva a la creacion y manipulacion de objetos.
 
 Si se quiere emplear arreglos para cualquier manipulacion, éstos deben usarse cuando ya las colecciones estén completamente llenas y hacer la conversion correspondiente.
