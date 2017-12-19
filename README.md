@@ -1,5 +1,5 @@
 # Aerolinea
-Deber de Java
+Tarea de Java Fundamental
 (uso de entrada de datos por consola, NO Scanner)
 
 Sistema de reservaciones de una aerolínea
